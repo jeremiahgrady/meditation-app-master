@@ -1,5 +1,5 @@
 {
-  "name": "meditation-app",
+  "name": "goof",
   "version": "1.0.1",
   "description": "A vulnerable todo demo application",
   "homepage": "https://snyk.io/",
@@ -15,8 +15,7 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "adm-zip": "0.4.11"
-
+    "adm-zip": "0.4.7"
   },
   "license": "Apache-2.0"
 }
